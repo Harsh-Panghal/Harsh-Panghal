@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Adarsh Sharma</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
+<h3 align="center">A passionate MernStack developer from India</h3>
 <p><img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="adarshsharmaglbitm" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharmaglbitm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharmaglbitm" /> </p>
 
-- 🌱 I’m currently learning **DSA, Java,SpringBoot, Cloud Computing , JavaScipt**
+- 🌱 I’m currently learning **DSA, Java,HTML5, CSS, JavaScipt, Cloud Computing**
 
 - 💬 Ask me about **Java Developer**
 
-- 📫 How to reach me **adarsh1293@gmail.com**
+- 📫 How to reach me **harsh.choudhary.glb@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/adarsh-sharma-7a127a24a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-sharma-7a127a24a/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adarsh1293/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarsh1293" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-choudhary-022391224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-sharma-7a127a24a/" height="30" width="40" /></a>
+<a href="https://www.naukri.com/code360/profile/harshchoudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adarsh1293" height="30" width="40" /></a>
 <a href="https://leetcode.com/adarsh1293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adarsh1293" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adarsh1293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adarsh1293" height="30" width="40" /></a>
 </p>
