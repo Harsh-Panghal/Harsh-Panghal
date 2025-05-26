@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharmaglbitm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharmaglbitm" /> </p>
 
-- 🌱 I’m currently learning **DSA, Java,HTML5, CSS, JavaScipt, Cloud Computing**
+- 🌱 I’m currently learning **DSA, Java, HTML5, CSS, JavaScipt, Cloud Computing**
 
 - 💬 Ask me about **Java Developer**
 
@@ -25,8 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshsharmaglbitm&show_icons=true&locale=en&layout=compact" alt="adarshsharmaglbitm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshsharmaglbitm&show_icons=true&locale=en" alt="adarshsharmaglbitm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harsh-Panghal&show_icons=true&locale=en" alt="adarshsharmaglbitm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshsharmaglbitm&" alt="adarshsharmaglbitm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Panghal&" alt="adarshsharmaglbitm" /></p>
 
 
