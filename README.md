@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharmaglbitm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharmaglbitm" /> </p>
 
-- 🌱 I’m currently learning **DSA, Java, HTML5, CSS, JavaScipt, React.js,Tailwindcss, Material UI, System Design**
+- 🌱 I’m currently learning **DSA, Java, HTML5, CSS, JavaScipt, React.js, Tailwindcss, Material UI, System Design**
 
 - 💬 Ask me about **Java Developer**
 
