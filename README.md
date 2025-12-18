@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharmaglbitm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharmaglbitm" /> </p>
 
-- 🌱 I’m currently learning **DSA, Java, HTML5, CSS, JavaScipt, React.js, Tailwindcss, Material UI, System Design**
+- 🌱 I’m currently learning **DSA, Java, React.js, Tailwind CSS, ShadCN UI, Radix UI, Zustand, Responsive Design, Accessibility, Java Backend Development and Spring Boot**
 
-- 💬 Ask me about **Java Developer**
+- 💬 Ask me about **Frontend Development with React.js**
 
 - 📫 How to reach me **harsh.choudhary.glb@gmail.com**
 
