@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harsh Choudhary</h1>
-<h3 align="center">A passionate MernStack developer from India</h3>
-<p><img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="adarshsharmaglbitm" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharmaglbitm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharmaglbitm" /> </p>
-
 # 💫 About Me:
+<strong>Hi 👋, I'm Harsh Choudhary</strong><br /><br />
+<strong >A passionate MernStack developer from India</strong>
+<p><img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" alt="adarshsharmaglbitm" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adarshsharmaglbitm&label=Profile%20views&color=0e75b6&style=flat" alt="adarshsharmaglbitm" /> </p>
 🌱 I’m currently learning DSA, Java, React.js, Tailwind CSS, ShadCN UI, Radix UI, Zustand, Responsive Design, Accessibility, Java Backend Development and Spring Boot<br><br>💬 Ask me about Frontend Development with React.js<br><br>📫 How to reach me harsh.choudhary.glb@gmail.com<br><br>⚡ Fun fact I Like Problem (-_-)
 
 
